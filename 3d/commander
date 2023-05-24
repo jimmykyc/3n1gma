@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>commander</title>
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+    <link href="/3d/styleNew.css" rel="stylesheet" type="text/css" media="all">
+</head>
+  <body>
+  <a class="sigil" href="/"></a>
+  <div class="bg">
+    <div class="content">
+      <div class="videoContainer">
+        <video playsinline autoplay muted loop>
+          <source src="/3d/commander.mp4" type="video/mp4">
+        </video> 
+      </div>
+      <div class="info">
+      <div class="textbox"> 
+      <h1>Deathly Phantom, Thy Commander!</h1>
+      <hr>
+      <p>
+      A million souls our commander has taken, a million more will come. Done is the day of dawn, here comes the night of dread.
+      </p>
+      <a href="/3d/crow">◅</a><a href="/3d/moth">▻</a>
+      </div>
+      </div>
+    </div>
+  </div> 
+  </body>
+</html>

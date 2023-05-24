@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>moth</title>
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+    <link href="/3d/styleNew.css" rel="stylesheet" type="text/css" media="all">
+</head>
+  <body>
+  <a class="sigil" href="/"></a>
+  <div class="bg">
+    <div class="content">
+      <div class="videoContainer">
+        <video playsinline autoplay muted loop>
+          <source src="/3d/moth.mp4" type="video/mp4">
+        </video> 
+      </div>
+      <div class="info">
+      <div class="textbox"> 
+      <h1>Shade we are in-moths</h1>
+      <hr>
+      <p>
+      Swarming the air, the light casts onto the withered.
+      </p>
+      <a href="/3d/commander">◅</a><a href="/3d/shadow">▻</a>
+      </div>
+      </div>
+    </div>
+  </div> 
+  </body>
+</html>

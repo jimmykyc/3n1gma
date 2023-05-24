@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>caped</title>
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+    <link href="/3d/styleNew.css" rel="stylesheet" type="text/css" media="all">
+</head>
+  <body>
+  <a class="sigil" href="https://thaer.no/"></a>
+  <div class="bg">
+    <div class="content">
+      <div class="videoContainer">
+        <video playsinline autoplay muted loop>
+          <source src="/3d/heve.mp4" type="video/mp4">
+        </video> 
+      </div>
+      <div class="info">
+      <div class="textbox"> 
+      <h1>The Banished Ealdor</h1>
+      <hr>
+      <p>
+      In the gate there has been a banishing of the lowly king.
+The key within the otherworld comes to bury itself within the mossy stone.
+      </p>
+      <a href="/directory.html">◅</a><a href="/3d/crow">▻</a>
+      </div>
+      </div>
+    </div>
+  </div> 
+  </body>
+</html>
+
+
+
+
+

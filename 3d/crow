@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>crow</title>
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+    <link href="/3d/styleNew.css" rel="stylesheet" type="text/css" media="all">
+</head>
+  <body>
+  <a class="sigil" href="/"></a>
+  <div class="bg">
+    <div class="content">
+      <div class="videoContainer">
+        <video playsinline autoplay muted loop>
+          <source src="/3d/CROW.mp4" type="video/mp4">
+        </video> 
+      </div>
+      <div class="info">
+      <div class="textbox"> 
+      <h1>The Eye of The Crows</h1>
+      <hr>
+      <p>
+      In the center of oblivion lie a murder of crows, gently waiting by the edge
+      </p>
+      <a href="/3d/caped.html">◅</a><a href="/3d/commander">▻</a>
+      </div>
+      </div>
+    </div>
+  </div> 
+  </body>
+</html>
